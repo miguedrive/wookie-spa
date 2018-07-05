@@ -1,0 +1,27 @@
+{
+  "name": "wookie-spa",
+  "version": "1.0.0",
+  "description": "A Simple app to manage Spa clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguedrive/wookie-spa.git"
+  },
+  "keywords": [
+    "spa",
+    "clients",
+    "management",
+    "reservation",
+    "open",
+    "source"
+  ],
+  "author": "Miguel Casas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguedrive/wookie-spa/issues"
+  },
+  "homepage": "https://github.com/miguedrive/wookie-spa#readme"
+}
